@@ -11,7 +11,7 @@
 - 🛠️ **Memory Allocation**
 - 🗑️ **Memory Deallocation**
 
-The core data structure is a bitmap*that tracks available memory
+The core data structure is a bitmap*that tracks available memory.
 
 ---
 
@@ -58,21 +58,3 @@ _See how memory allocation works dynamically!_
 
 ---
 
-## 🌟 Future Goals 🌟
-We aim to showcase this project as an **alternative to the standard allocator** in C++. Help us spread the word!
-
----
-
-## 🛠️ Build & Run Instructions
-```bash
-# Clone the repository
-git clone https://github.com/username/memory-allocator.git
-
-# Navigate to the project directory
-cd memory-allocator
-
-# Build the project
-g++ -o allocator allocator.cpp
-
-# Run the project
-./allocator
