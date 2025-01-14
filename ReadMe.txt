@@ -6,12 +6,12 @@
 
 ---
 
-🚀 **Welcome to the world of efficient memory management!** This repository showcases a custom **Memory Allocator** written in C++. With its simple yet effective design, it handles:
+🚀  This repository showcases a custom Memory Allocator written in C++.It handles:
 
 - 🛠️ **Memory Allocation**
 - 🗑️ **Memory Deallocation**
 
-The core data structure? 🧩 A **bitmap** that tracks available memory!
+The core data structure is a bitmap*that tracks available memory
 
 ---
 
