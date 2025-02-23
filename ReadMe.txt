@@ -1,8 +1,5 @@
 #  Dynamic Memory Allocator in C++ ✨
 
-![C++ Badge](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=c%2B%2B)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 ---
 
