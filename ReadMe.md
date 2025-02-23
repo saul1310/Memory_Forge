@@ -43,14 +43,11 @@ The core data structure is a bitmap*that tracks available memory.
 
 ---
 
-## 🎨 Visualizing the Allocator
-![Memory Allocator GIF](https://media.giphy.com/media/xT1R9WNybRMpkJOsPu/giphy.gif)  
-_See how memory allocation works dynamically!_
 
 ---
 
-## 🚩 Contributing 🚩
-🤝 **Join the project!** If you have any suggestions, optimizations, or enhancements, feel free to open a Pull Request or Issue. Every contribution matters!
+##  Contributing 
+ **Join the project!** If you have any suggestions, optimizations, or enhancements, feel free to open a Pull Request or Issue. Every contribution matters!
 
 ---
 
