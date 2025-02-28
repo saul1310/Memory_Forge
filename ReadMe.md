@@ -10,7 +10,7 @@ This repository showcases a custom Memory Allocator written in C++.It handles:
 - 🛠️ **Memory Allocation**
 - 🗑️ **Memory Deallocation**
 
-The core data structure is a bitmap*that tracks available memory.
+The cordata structure is a bitmap*that tracks available memory.
 
 ---
 
