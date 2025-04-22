@@ -1,7 +1,7 @@
 #ifndef ALLOCATOR_UTILS_H
 #define ALLOCATOR_UTILS_H
 
-namespace AllocatorUtils {
+namespace AllocatorUtils 
 
     // Aligns a given pointer to the nearest multiple of 'alignment'
     inline std::uintptr_t AlignPointer(std::uintptr_t ptr, std::size_t alignment) {
