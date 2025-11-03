@@ -1,5 +1,5 @@
 
-#  Dynamic Memory Allocator in C++ ✨
+#  Dynamic Memory Allocator in C++
 
 ![C++ Badge](https://img.shields.io/badge/Language-C++-blue?style=flat-square&logo=c%2B%2B)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
@@ -15,14 +15,14 @@ The core data structure is a bitmap*that tracks available memory.
 
 ---
 
-##  Features ✨
+##  Features 
 
 ###  First Fit Allocation
 - **How it works**:  
   Allocates memory by scanning the bitmap from **left to right** until it finds a large enough block.  
 - **Failure Case**:  
   If there isn't enough space, the user gets an **"Out of Memory"** notification.  
-- ⚡ **Efficiency**: Quick but might leave gaps (fragmentation).
+-  **Efficiency**: Quick but might leave gaps (fragmentation).
 
 ###  Best Fit Allocation
 - **How it works**:  
@@ -40,9 +40,9 @@ The core data structure is a bitmap*that tracks available memory.
 
 ---
 
-## 💡 Additional Ideas 💡
-- 🧙‍♂️ **Reallocation**: Create a **best-fit memory layout** for better performance.  
-- ⚖️ **Granularity vs. Space**: Balance block size for space efficiency.
+##  Additional Ideas 
+-  **Reallocation**: Create a **best-fit memory layout** for better performance.  
+-  **Granularity vs. Space**: Balance block size for space efficiency.
 
 ---
 
